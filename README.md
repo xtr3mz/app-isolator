@@ -1,5 +1,7 @@
 # app-isolator
 
+*XPOSED IS NEED*
+
 thanks to lan tian(author)
 
     Stops apps from sh*ting in Storage.
