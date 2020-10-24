@@ -7,4 +7,5 @@ thanks to lan tian(author)
     Stop app peeking/scanning other folders & files (force mode)
 
 *bug:*
-may leak some file some time.
+some files sometimes may not contained.
+not all app can be isotated.
