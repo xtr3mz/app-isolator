@@ -2,9 +2,9 @@
 
 thanks to lan tian(author)
 
-Stops apps from sh*ting in Storage.
+    Stops apps from sh*ting in Storage.
 
-Stop app peaking/scanning other folders & files (force mode)
+    Stop app peeking/scanning other folders & files (force mode)
 
-bug:
+*bug:*
 may leak some file some time.
