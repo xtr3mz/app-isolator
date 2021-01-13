@@ -1,13 +1,10 @@
 # app-isolator
 
-*XPOSED IS NEED*
+*XPOSED 需要安装*
 
-thanks to lan tian(author)
+安卓app文件隔离，阻止垃圾app到处大小便，也可以阻止访问空间
+（大部分时候，偶尔会失效）
 
-    Stops apps from sh*ting in Storage.
+未修改任何代码，留着以后改
 
-    Stop app peeking/scanning other folders & files (force mode)
-
-*bug:*
-some files sometimes may not contained.
-not all app can be isotated.
+感谢原作者 lan tian
